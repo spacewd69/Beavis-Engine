@@ -1,5 +1,5 @@
-# Project Engine
-A Friday Night Funkin' test engine made from scratch. (The read me is just an edited version of my other engine Supernova Engine)
+# Beavis Engine
+A Friday Night Funkin' engine for nothing much but Beavis and Butt-head memes in FNF
 
 # Features (This section is not finished yet):
 - Organized assets and source code
