@@ -15,7 +15,7 @@ Skid and Pump are created by SrPelo
 BassetFilms did music for lemon monster songs
 Mike Judge created Beavis and Butt-head
 
-Final important thing, this is made without the support and love to and from mtv.com.
+Final important thing, this is made with the support and love to mtv.com.
 Go to MTV, we love MTV. MTV good. How many times do I gotta damn say it. MTV MTV MTV MTV MTV MTV MTV
 I love Mike Judge and MTV.
 
