@@ -69,6 +69,6 @@ class EngineVer extends TextField
 
 	function version_Function()
 	{
-		text += "Beavis Engine v" + Application.current.meta.get('version');
+		text += "Beavis Engine" + Application.current.meta.get('version');
 	}
 }
