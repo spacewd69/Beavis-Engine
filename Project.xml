@@ -3,7 +3,7 @@
 
 	<!-- _________________________ Application Settings _________________________ -->
 
-	<app title="Friday Night Funkin': Beavis Engine" file="Project Engine" packageName="com.spacewd.beavisengine" package="com.nebulazone.project-engine" main="Main" version="0.1.0" company="NebulaZone" />
+	<app title="Friday Night Funkin': Beavis Engine" file="Project Engine" packageName="com.spacewd.beavisengine" package="com.spacewd.beavisengine" main="Main" version="EARLY BETA" company="SpaceWD" />
 
 	<app preloader="flixel.system.FlxPreloader" />
 	<set name="SWF_VERSION" value="11.8" />
