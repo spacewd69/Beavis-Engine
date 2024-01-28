@@ -32,7 +32,7 @@ class DiscordClient {
 
 	static function onReady() {
 		DiscordRpc.presence({
-			details: 'Main Menu',
+			details: 'MTV MTV MTV MTV MTV MTV MTV',
 			state: null,
 			largeImageKey: 'icon',
 			largeImageText: 'Friday Night Funkin\''
