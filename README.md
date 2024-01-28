@@ -31,7 +31,7 @@ Finally we're going to install only 2 components in VS Community 2019 (Note: Thi
 - Now you can make your own FNF mod, hope you enjoy!
 
 # Credits
-- NebulaZone: Creator, Programmer
+- NebulaZone: Creator of the Engine Template (what I am using to make the Beavis Engine)
 - YoshiCrafter: Inspiration, Hscript improved git, Update batch code
 
 # Repo Size
