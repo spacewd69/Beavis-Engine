@@ -35,4 +35,4 @@ Finally we're going to install only 2 components in VS Community 2019 (Note: Thi
 - YoshiCrafter: Inspiration, Hscript improved git, Update batch code
 
 # Repo Size
-![Repo size](https://img.shields.io/github/repo-size/nebulazone1/Project-Engine)
+![Repo size](https://img.shields.io/github/repo-size/spacewd69/Beavis-Engine)
