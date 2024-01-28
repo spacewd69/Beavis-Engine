@@ -89,11 +89,11 @@ class TitleState extends MusicBeatState
 	static var initializedTransitions:Bool = false;
 
 	public var introLines:Map<Int, IntroLine> = [
-		1 => new IntroLine(ADD, ["NebulaZone"]),
-		3 => new IntroLine(ADD, ["presents"]),
+		1 => new IntroLine(ADD, ["Beavis Engine by"]),
+		3 => new IntroLine(ADD, ["SpaceWD"]),
 		4 => new IntroLine(SET, []),
 		5 => new IntroLine(ADD, ["Check out"]),
-		7 => new IntroLine(ADD, ["Newgrounds"], (beat:Int, state:TitleState) ->
+		7 => new IntroLine(ADD, ["MTV"], (beat:Int, state:TitleState) ->
 		{
 			state.ngSpr.alpha = 1;
 		}),
@@ -171,11 +171,6 @@ class TitleState extends MusicBeatState
 		titleText.animation.addByPrefix("idle", "Press Enter to Begin", 24);
 		titleText.animation.addByPrefix("press", "ENTER PRESSED", 24);
 		titleText.animation.play("idle");
-
-		add(ngSpr = new FNFSprite(0, FlxG.height * 0.52).loadGraphic(Paths.image("menus/title_menu/newgrounds_logo")));
-		ngSpr.scale.set(0.8, 0.8);
-		ngSpr.updateHitbox();
-		ngSpr.screenCenter(X);
 
 		add(textGroup = new FlxTypedGroup<Alphabet>());
 
